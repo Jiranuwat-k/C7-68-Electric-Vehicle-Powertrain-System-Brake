@@ -42,11 +42,9 @@ If you haven't already, you need to install the development environment:
 Open a terminal (Git Bash or Command Prompt) and run:
 
 ```sh
-git clone https://github.com/your-username/ESP32_ESCDrive.git
+git clone https://github.com/Jiranuwat-k/C7-68-Electric-Vehicle-Powertrain-System-Brake.git
 cd ESP32_ESCDrive
 ```
-
-_(Replace the URL with the actual repository link)_
 
 ### 3. Open in PlatformIO
 
