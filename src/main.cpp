@@ -81,6 +81,10 @@ void loop() {
     Serial.print("Vout : ");
     Serial.println(Vout, 3);
     Serial.print("Pressure : ");
-    Serial.println(Pressure, 3);
+    Serial.print(Pressure, 3);
+    Serial.println(" kPa");
+    Serial.print("Pressure bar : ");
+    Serial.print(Pressure/100, 3);
+    Serial.println(" bar");
   }
 }
